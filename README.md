@@ -12,7 +12,7 @@
 ### I'm Faihaan
 - 👨‍💻 A Computer Science Undergraduate Student. 
 - 🌐 Interested in all web techonologies and building full stack projects.
-- 🌱 Currently learning front-end development with React libraries.
+- 🌱 Currently learning front-end development with React and Tailwind CSS.
 - 💬 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 <!---
