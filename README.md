@@ -1,10 +1,10 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/faihaan-arif-3020b117a/">
-  <img align="left" alt="Faihaan's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Faihaan's Linkedin" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />
 </a>
 <a href="https://github.com/farif1234">
-  <img align="left" alt="Faihaan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Faihaan's Github" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 </a>
 <br />
 <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> --->
