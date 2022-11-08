@@ -7,7 +7,6 @@
   <img align="left" alt="Faihaan's Github" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 </a>
 <br />
-<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> --->
 
 ### I'm Faihaan
 - 👨‍💻 A Computer Science Undergraduate Student. 
