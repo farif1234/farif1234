@@ -9,10 +9,8 @@
 <br />
 
 ### I'm Faihaan
-- 👨‍💻 A Computer Science Undergraduate Student. 
+- 👨‍💻 CompSci @ Oregon State 
 - 🌐 Interested in all web techonologies and building full stack projects.
-- 🌱 Currently learning front-end development with React and Tailwind CSS.
-- 💬 Open to any opportunities!
 
 <!---
 farif1234/farif1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
