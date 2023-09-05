@@ -10,6 +10,7 @@
 
 ### I'm Faihaan
 👨‍💻 Studying computer science @ Oregon State 
+
 🌐 Interested in all web techonologies and building full stack projects.
 
 <!---
