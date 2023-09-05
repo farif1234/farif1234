@@ -9,8 +9,8 @@
 <br />
 
 ### I'm Faihaan
-- 👨‍💻 Studying computer science @ Oregon State 
-- 🌐 Interested in all web techonologies and building full stack projects.
+👨‍💻 Studying computer science @ Oregon State 
+🌐 Interested in all web techonologies and building full stack projects.
 
 <!---
 farif1234/farif1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
